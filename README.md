@@ -1,0 +1,2 @@
+# lab5_fashion_mnist_dense
+lab5_fashion_mnist_dense
